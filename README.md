@@ -8,9 +8,5 @@ This company directory was built with React.
 * `uuid`
 * `evergreen-ui`
 
-## Installation
-
-`npm i` 
-
 
 
