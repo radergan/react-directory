@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# Company Directory
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Installation
+
+Run `npm i`
+
+## Package Dependencies
+* fuzzaldrin-plus
+* evergreen-ui
+* uuid
 
 ## Available Scripts
 
