@@ -4,11 +4,11 @@ This company directory was built with React.
 
 ## Package Dependencies
 
-`fuzzaldrin-plus`
-`uuid`;
-`evergreen-ui`
+* `fuzzaldrin-plus`
+* `uuid`
+* `evergreen-ui`
 
-##Installation
+## Installation
 
 `npm i` 
 
